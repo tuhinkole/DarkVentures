@@ -1,0 +1,7 @@
+{
+  "name": "DarkVentures",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
