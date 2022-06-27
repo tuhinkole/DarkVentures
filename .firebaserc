@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ghostbook-1afa1": {
+      "hosting": {
+        "app": [
+          "ghostbook-1afa1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ghostbook-1afa1"
+  }
+}
